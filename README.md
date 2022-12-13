@@ -4,7 +4,7 @@ I'm a cybersecurity researcher from Kochi, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I cur
 
 I have been building APIs and tools for Machine Learning and data systems, in Latina. 🌎
 
-I created [**Hackers Punk**](https://www.hackerspunk.com/), created [**Hacker Exploit**](https://www.hackerexploit.com/), [**Linux Leads**](https://www.linuxleads.com/),  [**Space AI**](https://www.spaceai.dev/) and a bunch of other open source tools. 🚀
+I created [**Hackers Punk**](https://www.hackerspunk.com/), [**Hacker Exploit**](https://www.hackerexploit.com/), [**Linux Leads**](https://www.linuxleads.com/),  [**Space AI**](https://www.spaceai.dev/) and a bunch of other open source tools. 🚀
 
 I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
